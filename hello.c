@@ -8,7 +8,7 @@ inblock(em bloco)
 //Função main(principal) responsável pela execução do arquivo
 int main(){
     //comando printf, exibe a mensagem hello world em tela
-   printf("hello world!");
+   printf("hello world!\n");
    //retorno para a função main que foi declarada como int
      return 0;
 }
